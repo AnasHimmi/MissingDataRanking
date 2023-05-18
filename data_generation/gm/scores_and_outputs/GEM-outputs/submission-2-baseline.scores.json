@@ -1,0 +1,107 @@
+{
+  "submission_name": "NUIG-DSI (baseline) - Baseline",
+  "param_count": 222903552,
+  "dart_validation": {
+    "predictions_file": "NUIG-DSI (baseline) - Baseline/dart_validation",
+    "N": 2768
+  },
+  "common_gen_validation": {
+    "predictions_file": "NUIG-DSI (baseline) - Baseline/common_gen_validation",
+    "N": 993,
+    "references_file": "/usr/local/google/home/gehrmann/Documents/GEM-metrics/data/references/common_gen_validation.json",
+    "bleu": 28.94248,
+    "local_recall": {
+      "1": 0.1101737282839645,
+      "2": 0.32127659574468087,
+      "3": 0.5317139001349528,
+      "4": 0.8065143412736996,
+      "5": 0.8283261802575107,
+      "6": 0.9047619047619048,
+      "7": 0.8333333333333334,
+      "8": 0.8
+    },
+    "nist": 7.216578861403421,
+    "rouge1": {
+      "precision": 0.6586,
+      "recall": 0.64624,
+      "fmeasure": 0.64262
+    },
+    "rouge2": {
+      "precision": 0.34045,
+      "recall": 0.32765,
+      "fmeasure": 0.32768
+    },
+    "rougeL": {
+      "precision": 0.57192,
+      "recall": 0.56,
+      "fmeasure": 0.55758
+    },
+    "rougeLsum": {
+      "precision": 0.57192,
+      "recall": 0.56,
+      "fmeasure": 0.55758
+    },
+    "bleurt": -0.30848,
+    "meteor": 0.2765798498628902,
+    "bertscore": {
+      "precision": 0.89487,
+      "recall": 0.89354,
+      "f1": 0.89281
+    },
+    "nubia": {
+      "semantic_relation": 3.27611,
+      "contradiction": 29.80952,
+      "irrelevancy": 18.84939,
+      "logical_agreement": 51.34109,
+      "grammar_ref": 4.64808,
+      "grammar_hyp": 4.34559,
+      "nubia_score": 0.50344
+    }
+  },
+  "e2e_nlg_validation": {
+    "predictions_file": "NUIG-DSI (baseline) - Baseline/e2e_nlg_validation",
+    "N": 4299,
+    "references_file": "/usr/local/google/home/gehrmann/Documents/GEM-metrics/data/references/e2e_nlg_validation.json",
+    "bleu": 33.73192,
+    "local_recall": {
+      "1": 0.6944358097606466
+    },
+    "nist": 5.304279340670821,
+    "rouge1": {
+      "precision": 0.73555,
+      "recall": 0.72069,
+      "fmeasure": 0.71885
+    },
+    "rouge2": {
+      "precision": 0.46715,
+      "recall": 0.45422,
+      "fmeasure": 0.45481
+    },
+    "rougeL": {
+      "precision": 0.54985,
+      "recall": 0.53808,
+      "fmeasure": 0.53708
+    },
+    "rougeLsum": {
+      "precision": 0.54985,
+      "recall": 0.53808,
+      "fmeasure": 0.53708
+    },
+    "bleurt": 0.23284,
+    "meteor": 0.365209333628192,
+    "bertscore": {
+      "precision": 0.9171,
+      "recall": 0.90251,
+      "f1": 0.90945
+    },
+    "nubia": {
+      "semantic_relation": 4.22584,
+      "contradiction": 2.153,
+      "irrelevancy": 9.7984,
+      "logical_agreement": 88.0486,
+      "grammar_ref": 4.85661,
+      "grammar_hyp": 4.36711,
+      "nubia_score": 0.77805
+    }
+  }
+}

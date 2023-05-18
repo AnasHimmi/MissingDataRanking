@@ -1,0 +1,13 @@
+## Model Information
+Authors: Xingxing Zhang, Mirella Lapata, Furu Wei, Ming Zhou
+Paper: Neural Latent Extractive Document Summarization
+Model code: M3
+
+
+## Preparing data
+To match model outputs with source articles follow the instructions listed in the repository's README.
+
+
+## Important
+Model outputs were obtained from the original authors of the models and shared with their consent. When using any of the model outputs, please cite the original paper.
+

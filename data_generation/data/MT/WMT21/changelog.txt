@@ -1,0 +1,8 @@
+Updates:
+
+The source, reference and system outputs of the en-de challengeset have been updated to fix a processing error.
+
+Validation script and demo metrics uploaded to the validation folder. See validation/readme.txt for details.
+
+July 30th, 8.45am UTC: Additional systems added to en-de, en-ru and zh-en. The validation script and demo metrics have also been updated.  
+ 

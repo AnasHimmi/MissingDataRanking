@@ -1,0 +1,13 @@
+method_name: MLBL
+method_description: Our submission is an ensemble of 4 multimodal log-bilinear models [1,2] whose hyperparameters are tuned using Bayesian optimization with DNGO (Deep networks for global optimization) [3]. A beam search is used for generation.
+
+NOTE: No training was done on the development set. Both development and test results use models trained on the official training set only.
+
+[1] Multimodal Neural Language Models (Kiros et al)
+[2] Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models (Kiros et al)
+[3] Scalable Bayesian Optimization Using Deep Neural Networks (Snoek et al)
+project_url: 
+publication_url: 
+bibtex: 
+team_name: MLBL
+organization_or_affiliation: University of Toronto, Harvard University

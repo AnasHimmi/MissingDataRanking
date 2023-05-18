@@ -1,0 +1,7 @@
+method_name: Human
+method_description: Human baseline
+project_url: 
+publication_url: 
+bibtex: 
+team_name: Human
+organization_or_affiliation: Humanity

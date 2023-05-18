@@ -1,0 +1,9 @@
+method_name: Bigram Estimation
+method_description: We train linear classifiers for bigrams that commonly occur in train dataset using PAAPL (Ushiku et al. : Efficient image annotation for automatic sentence generation).
+In inference time, we first predict 10 bigrams for each image using those trained by PAAPL. Next, we search the train dataset for captions of 15 words or below that contain the largest number of predicted bigrams, and choose one with the shortest length as the final caption for the image.
+Image features are extracted using a 19-layer Oxford CNN.
+project_url: 
+publication_url: 
+bibtex: 
+team_name: MIL
+organization_or_affiliation: The University of Tokyo

@@ -1,0 +1,7 @@
+method_name: 1-layer LSTM
+method_description: One layer Vanilla LSTM with 512 hidden units, 512-D words vectors trained from scratch. Beam size 1. Trained with RMSProp, gradient clipping.
+project_url: https://github.com/karpathy/neuraltalk
+publication_url: 
+bibtex: 
+team_name: NeuralTalk
+organization_or_affiliation: Stanford

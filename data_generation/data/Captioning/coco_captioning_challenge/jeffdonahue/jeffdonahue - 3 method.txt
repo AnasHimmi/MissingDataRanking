@@ -1,0 +1,7 @@
+method_name: LRCN-2F-VGGNET-BS1
+method_description: [See LRCN paper for full description.] This is the &amp;amp;amp;quot;two layer, factored&amp;amp;amp;quot; variant of the LRCN architecture.  We used VGGNet as the base visual network.  Sentences are generated using beam search with beam size 1.
+project_url: http://jeffdonahue.com/lrcn/
+publication_url: http://arxiv.org/abs/1411.4389
+bibtex: 
+team_name: Berkeley LRCN
+organization_or_affiliation: UC Berkeley, UT Austin, UMass Lowell

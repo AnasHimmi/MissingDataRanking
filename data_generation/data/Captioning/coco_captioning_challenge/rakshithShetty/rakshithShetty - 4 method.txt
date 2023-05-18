@@ -1,0 +1,7 @@
+method_name: CMME
+method_description: Combination of multiple neuraltalk based models using mutual evaluation.
+project_url: http://research.ics.aalto.fi/cbir/
+publication_url: 
+bibtex: 
+team_name: PicSOM
+organization_or_affiliation: Aalto University School of Science, Department of Computer Science

@@ -1,0 +1,7 @@
+method_name: attributes
+method_description: Add an intermediate attributes layer between CNN and LSTM
+project_url: 
+publication_url: 
+bibtex: 
+team_name: ACVT
+organization_or_affiliation: Australian Centre for Visual Technologies (ACVT), University of Adelaide

@@ -1,0 +1,13 @@
+## Model Information
+Authors: Wojciech Kryściński, Romain Paulus, Caiming Xiong, Richard Socher
+Paper: Improving Abstraction in Text Summarization
+Model code: M11
+
+
+## Preparing data
+To match model outputs with source articles follow the instructions listed in the repository's README.
+
+
+## Important
+Model outputs were obtained from the original authors of the models and shared with their consent. When using any of the model outputs, please cite the original paper.
+

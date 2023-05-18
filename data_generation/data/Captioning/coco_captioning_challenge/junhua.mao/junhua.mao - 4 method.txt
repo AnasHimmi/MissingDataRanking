@@ -1,0 +1,7 @@
+method_name: m-RNN-shared
+method_description: This is an updated version of the m-RNN model. We adopt the weight sharing strategy introced in the paper of Learning like a Child. The model consists of two sub-networks: a deep recurrent neural network for sentences and a deep convolutional network for images. These two sub-networks interact with each other in a multimodal layer to form the whole m-RNN model. We only use MS COCO 2014 data. More details can be found at http://www.stat.ucla.edu/~junhua.mao/m-RNN.html
+project_url: http://www.stat.ucla.edu/~junhua.mao/m-RNN.html
+publication_url: http://arxiv.org/abs/1504.06692
+bibtex: 
+team_name: m-RNN
+organization_or_affiliation: UCLA

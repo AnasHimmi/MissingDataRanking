@@ -1,0 +1,7 @@
+method_name: MSR Captivator
+method_description: Maximum entropy language model + DMSM + gated recurrent neural network + part-of-speech features + cider tuning
+project_url: http://research.microsoft.com/en-us/projects/image_captioning/
+publication_url: 
+bibtex: 
+team_name: MSR Captivator
+organization_or_affiliation: Microsoft Research

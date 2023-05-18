@@ -1,0 +1,12 @@
+method_name: mRNN_share_CR
+method_description: This is an updated version of the m-RNN model. 
+We adopt the transposed weight sharing strategy introduced in the paper of Learning like a Child (arXiv 1412.6632 and 1504.06692). 
+The model consists of two sub-networks: a RNN for sentences and a CNN for images. 
+These two sub-networks interact with each other in a multimodal layer to form the whole m-RNN model. 
+We only use MS COCO 2014 data. 
+More details will be described in a followed up paper.
+project_url: http://www.stat.ucla.edu/~junhua.mao/m-RNN.html
+publication_url: http://arxiv.org/abs/1412.6632; http://arxiv.org/abs/1504.06692
+bibtex: 
+team_name: m-RNN
+organization_or_affiliation: UCLA

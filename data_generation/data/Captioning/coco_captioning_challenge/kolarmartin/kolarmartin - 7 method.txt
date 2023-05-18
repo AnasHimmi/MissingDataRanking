@@ -1,0 +1,7 @@
+method_name: COSINE
+method_description: disclosed in future publication
+project_url: 
+publication_url: 
+bibtex: 
+team_name: Brno University
+organization_or_affiliation: Brno University of Technology, Faculty of Information Technology, Department of Computer Graphics and Multimedia

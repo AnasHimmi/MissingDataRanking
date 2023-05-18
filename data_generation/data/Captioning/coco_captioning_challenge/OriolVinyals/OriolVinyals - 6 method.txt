@@ -1,0 +1,7 @@
+method_name: GoogleLstm
+method_description: This is the Google CNN + an LSTM from the CVPR 2015 paper.
+project_url: 
+publication_url: http://arxiv.org/abs/1411.4555
+bibtex: 
+team_name: Google
+organization_or_affiliation: Google

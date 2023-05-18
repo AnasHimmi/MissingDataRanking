@@ -1,0 +1,13 @@
+## Model Information
+Authors: Abigail See, Peter J. Liu, Christopher D. Manning
+Paper: Get To The Point: Summarization with Pointer-Generator Networks
+Model code: M8
+
+
+## Preparing data
+To match model outputs with source articles follow the instructions listed in the repository's README.
+
+
+## Important
+Model outputs were obtained from the original authors of the models and shared with their consent. When using any of the model outputs, please cite the original paper.
+

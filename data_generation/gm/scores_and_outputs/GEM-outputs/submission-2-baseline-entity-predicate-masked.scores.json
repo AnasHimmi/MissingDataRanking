@@ -1,0 +1,8 @@
+{
+  "submission_name": "NUIG-DSI (baseline) - Entity+Predicate Masked",
+  "param_count": 222903552,
+  "dart_validation": {
+    "predictions_file": "NUIG-DSI (baseline) - Entity+Predicate Masked/dart_validation",
+    "N": 2768
+  }
+}

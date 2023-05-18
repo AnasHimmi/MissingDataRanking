@@ -1,0 +1,107 @@
+{
+  "submission_name": "NUIG-DSI (baseline) - Random Mask",
+  "param_count": 222903552,
+  "common_gen_validation": {
+    "predictions_file": "NUIG-DSI (baseline) - Random Mask/common_gen_validation",
+    "N": 993,
+    "references_file": "/usr/local/google/home/gehrmann/Documents/GEM-metrics/data/references/common_gen_validation.json",
+    "bleu": 26.87183,
+    "nist": 6.855864483327852,
+    "rouge1": {
+      "precision": 0.64419,
+      "recall": 0.6295,
+      "fmeasure": 0.62608
+    },
+    "rouge2": {
+      "precision": 0.33048,
+      "recall": 0.31463,
+      "fmeasure": 0.31533
+    },
+    "rougeL": {
+      "precision": 0.5585,
+      "recall": 0.54314,
+      "fmeasure": 0.54146
+    },
+    "rougeLsum": {
+      "precision": 0.5585,
+      "recall": 0.54314,
+      "fmeasure": 0.54146
+    },
+    "local_recall": {
+      "1": 0.1069241344831896,
+      "2": 0.32074468085106383,
+      "3": 0.5182186234817814,
+      "4": 0.7831793874574623,
+      "5": 0.7832618025751072,
+      "6": 0.8095238095238095,
+      "7": 0.8333333333333334,
+      "8": 1.0
+    },
+    "nubia": {
+      "semantic_relation": 3.1799,
+      "contradiction": 28.69413,
+      "irrelevancy": 24.77616,
+      "logical_agreement": 46.52971,
+      "grammar_ref": 4.64808,
+      "grammar_hyp": 4.4128,
+      "nubia_score": 0.47531
+    },
+    "meteor": 0.2656022212243338,
+    "bertscore": {
+      "precision": 0.88734,
+      "recall": 0.88745,
+      "f1": 0.88597
+    },
+    "bleurt": -0.38633
+  },
+  "dart_validation": {
+    "predictions_file": "NUIG-DSI (baseline) - Random Mask/dart_validation",
+    "N": 2768
+  },
+  "e2e_nlg_validation": {
+    "predictions_file": "NUIG-DSI (baseline) - Random Mask/e2e_nlg_validation",
+    "N": 4299,
+    "references_file": "/usr/local/google/home/gehrmann/Documents/GEM-metrics/data/references/e2e_nlg_validation.json",
+    "bleu": 34.21787,
+    "nist": 5.3646481110033,
+    "rouge1": {
+      "precision": 0.7376,
+      "recall": 0.72599,
+      "fmeasure": 0.72125
+    },
+    "rouge2": {
+      "precision": 0.46911,
+      "recall": 0.45803,
+      "fmeasure": 0.45691
+    },
+    "rougeL": {
+      "precision": 0.55098,
+      "recall": 0.54193,
+      "fmeasure": 0.53867
+    },
+    "rougeLsum": {
+      "precision": 0.55098,
+      "recall": 0.54193,
+      "fmeasure": 0.53867
+    },
+    "local_recall": {
+      "1": 0.7021379477083549
+    },
+    "nubia": {
+      "semantic_relation": 4.20029,
+      "contradiction": 2.22488,
+      "irrelevancy": 13.55325,
+      "logical_agreement": 84.22187,
+      "grammar_ref": 4.85661,
+      "grammar_hyp": 4.33242,
+      "nubia_score": 0.77131
+    },
+    "meteor": 0.3662283474171388,
+    "bertscore": {
+      "precision": 0.91558,
+      "recall": 0.90401,
+      "f1": 0.90941
+    },
+    "bleurt": 0.22819
+  }
+}

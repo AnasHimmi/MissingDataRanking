@@ -1,0 +1,13 @@
+## Model Information
+Authors: Yue Dong, Yikang Shen, Eric Crawford, Herke van Hoof, Jackie Chi Kit Cheung
+Paper: BanditSum: Extractive Summarization as a Contextual Bandit
+Model code: M2
+
+
+## Preparing data
+To match model outputs with source articles follow the instructions listed in the repository's README.
+
+
+## Important
+Model outputs were obtained from the original authors of the models and shared with their consent. When using any of the model outputs, please cite the original paper.
+

@@ -1,0 +1,843 @@
+I work on helping computers communicate with the world around us.
+There are many ways to do this, and I like to focus on helping computers to talk about what they see and understand.
+Given a scene like this, a modern computer vision algorithm can tell you that there's a woman and there's a dog.
+It can tell you that the woman is smiling.
+It might even be able to tell you that the dog is very cute.
+I work on this problem thinking about how humans understand and live with the world.
+The thoughts, memories and stories that a scene like this might evoke for humans.
+All the interconnections of related situations.
+Maybe you've seen a dog like this before, or you've spent time running on a beach like this one, and that further evokes memories and thoughts of past vacations, past times to the beach, times spent running around with other dogs.
+One of my guiding principles is that by helping computers to understand what it's like to have an experience, to understand what we believe and feel in common, then we're in a position to start evolving computer technology in a way that's complementary to our experiences.
+So, digging deeper into this, a few years ago I began working on helping computers to produce human-like stories from sequences of images.
+So one day, while I was working on my computer, I asked it what it thought about a trip to Australia.
+It took a look at the pictures and saw a koala.
+It didn't know what the koala was, but it said it thought it was an interesting-looking creature.
+Then I shared with the computer a series of images of a house burning down.
+The computer took a look at the picture and it said, "This is an amazing view! This is spectacular!"
+It sent chills down my spine.
+The computer saw a terrible, life-changing and life-destroying event and thought it was a positive thing.
+I realized that the computer recognized the contrast between red and yellow and thought it was something worthy of a positive review.
+Part of the reason is because most of the images I put into the computer are positive images.
+That's because people tend to share positive images when they talk about their experiences.
+When was the last time you saw a selfie at a funeral?
+I realized that in the process of improving AI, it was task by task, dataset by dataset, creating huge gaps, flaws and blind spots in the understanding of computers.
+And while doing so, I was coding for all sorts of biases.
+Prejudice reflects a limited view, and it comes from a single dataset -- one that reflects what humans share, such as prejudice and stereotyping.
+I thought back to the evolution of the technology that brought me to where I was that day -- that the first color images were calibrated against a white woman's skin, meaning that color photography was biased against black faces.
+And that same bias, that blind spot continued into the '90s.
+The same blind spot exists even today in how well we recognize the faces of different people in facial recognition technology.
+In today's research, I think of state-of-the-art technology that tends to limit our thinking to one dataset and one problem.
+And in doing so, we're creating more blind spots and biases that can be further amplified when using artificial intelligence.
+I realized then that we had to think deeply about how the technology we invent today will be viewed in five to ten years.
+In the interaction between humans and the environment, humans take time to correct problems, so evolution is slow.
+Artificial intelligence, by contrast, is evolving at an incredible rate.
+And that means that it really matters that we think about this carefully now -- reflect on our own blind spots, our own biases, and consider how that's affecting the technology we're creating now, and discuss what today's technology will mean for the future.
+CEOs and scientists have weighed in on what they think about the future of AI.
+Stephen Hawking warns that "Artificial intelligence could end mankind."
+Elon Musk warns that this is an existential risk and one of the greatest risks we face as a civilized society.
+Bill Gates pointed out, "I don't understand why people aren't more worried about artificial intelligence."
+But these views -- they're part of the story.
+The math, the models, the basic building blocks of artificial intelligence are something that we can all access and use.
+We have open-source tools to learn machines and make our own contributions at the same time.
+And beyond that, we can share our experiences.
+We can share in terms of technology and how it relates to us, and how it excites us.
+We can discuss what we love.
+We can communicate with the foreseeable future, and that might be more beneficial in terms of technology, or there might be more problems over time.
+If we all focus on opening up the discussion on AI and looking to the future, this will help create a general conversation and awareness about what AI is, what it can become, and all the things we need to do to achieve the results that best suit us.
+We already see and know this in the technology we use today.
+We use smartphones, digital assistants and automatic vacuum cleaners.
+Are they evil?
+Maybe sometimes.
+Are they beneficial?
+Yes, they are, too.
+They're not exactly the same.
+And there you already see the light of the future.
+The future continues on from what we build and create right now.
+We set in motion the domino effect, which uncovers the evolutionary path of artificial intelligence.
+In our time, we shape the AI of tomorrow.
+Technology that immerses us in augmented reality, bringing to life the world of the past.
+Technology helps people to share their experiences when they have difficulty communicating.
+Technology built on online visual media that can be used in self-driving cars.
+Technology that produces language based on the understanding of images can evolve into technology that helps the visually impaired to have a better understanding of the visual world.
+We also see how technology can lead to problems.
+We have technology today that analyzes the physical characteristics of our birth -- such as the color of our skin or the look on our face -- to determine whether we're criminals or terrorists.
+We have the technology to process data, process data about gender or race, to determine if we can get a loan.
+All that we see now is a snapshot of the evolution of artificial intelligence.
+Because where we are now is a moment in evolution.
+This means that what we do now will affect the future of things and the world of the future.
+If we want AI to evolve in a way that helps humans, we need to define strategies and goals that enable that path right away.
+What I want to see is the direction of development that suits human culture and the environment.
+Technology can help us heal people with neurological conditions or other disabilities and make life equally challenging for everyone.
+Technology that works regardless of your characteristics or the color of your skin.
+What I focus on today is the technology of tomorrow and 10 years from now.
+Artificial intelligence can turn out in many different ways.
+But in this case, it's not a driverless car without any destination.
+This is the car that we can drive at the same time.
+We choose when to speed up and when to slow down.
+We choose if we need to make a turn.
+We choose what the AI of the future will be.
+There will be a vast playing field where artificial intelligence can be everything.
+It will become a lot of different things.
+Now it's up to us to figure out what we need to put in place to ensure that the results of artificial intelligence will be better for all of us.
+Thank you.
+(Applause)
+I want you to take a moment to consider the very simple fact that, by far, most of what we know about the universe comes from light.
+We can stand on the Earth and look up at the night sky and see the stars with our naked eyes.
+The strong sunlight is so dazzling.
+We can see the light reflected off the Moon.
+Since Galileo pointed his rudimentary telescope at the celestial bodies in the universe, the universe as we know it today has come to us through light.
+With the help of modern telescopes, we've been able to collect stunning silent images of the universe -- a series of images that go all the way back to the Big Bang.
+But the universe is not a silent movie, because the universe is not really silent.
+I want to tell you that the universe has its own soundtrack, and the universe itself is constantly playing, because space can vibrate like a drum.
+So it can send out a series of sounds to the universe when something big happens.
+Now, we want to be able to add sound to this magnificent visual composition of the universe.
+And although we've never heard anything from outer space, we should be able to turn up the volume in the next few years to hear what's going on there.
+For the ambitious goal of capturing the sound of the universe, we turn our focus to black holes and the promise they have, because black holes can bang on space-time like mallets on a drum and make a very special sound, and I'd be happy to play you some of the sounds we predicted.
+We might one day see a shadow and a black hole can cast a shadow on a very bright background, but we haven't yet.
+And although black holes are not seen, they're likely to be heard because they bang on space-time like a drum.
+The idea that the universe can ring like a drum comes from Albert Einstein, and actually a lot of what we think comes from him.
+Einstein realized that if the universe were empty, if the universe were empty, it would look like this picture, except for the auxiliary lines drawn on it.
+But if we were freely falling through the universe, even without these auxiliary lines, our paths would draw them, because we would find that we travel along straight lines, along straight lines that don't bend through the universe.
+Einstein also realized -- and this is the really crucial part (matter also means "matter") -- that if you put energy and matter in the universe, the universe would bend, and a freely falling object would be deflected along a curved path in space as it passed by a celestial body like the Sun.
+This is Einstein's great general theory of relativity.
+Even the path of light can be bent.
+And when you bend so much, you're in orbit around the Sun, like the Earth around the Sun, the Moon around the Earth.
+These are the natural curves in the universe.
+But Einstein didn't realize that if you took the Sun and you crushed it down to six kilometers -- so you took a million times the mass of the Earth and you crushed it to six kilometers across, you would make a black hole, an object so dense that if light veered too close, it would never escape -- a dark shadow against the universe.
+But Einstein always thought black holes were a mathematical oddity.
+He didn't believe in black holes.
+He believed that nature would protect us from the formation of black holes.
+It was decades before the term "black hole" was coined and people realized that black holes are real celestial bodies -- in fact, they're the death state of very massive stars that collapse catastrophically at the end of their lifetime.
+Our Sun will not collapse to a black hole.
+It's actually not massive enough.
+But if we did a little thought experiment -- as Einstein was very fond of doing -- we could imagine crushing the Sun down to six kilometers, and putting a tiny little Earth in orbit around it, maybe 30 kilometers away from the black hole Sun.
+The Earth will shine by itself, because now that the Sun is gone, we have no other source of light -- so our little Earth has to shine by itself.
+You will find that you can even put the Earth in orbit 30 kilometers outside of the black hole and make it orbit happily.
+This black hole is actually about the size of Manhattan.
+It could swell up to Hudson Street before it destroys the Earth.
+But basically that's what we're talking about.
+We're talking about an object compressed to half the size of Manhattan.
+So we move this Earth close to the black hole -- 30 kilometers -- and we notice it's perfectly orbiting around the black hole.
+There's a sort of myth that black holes devour everything in the universe, but you actually have to get very close to fall in.
+But what's impressive is that from our vantage point, we can always see the Earth.
+It cannot hide behind the black hole.
+Some of the light from the Earth falls into the black hole, but some of it is bent by the black hole and seen by us.
+So you can't hide anything behind a black hole.
+If this is Battlestar Galactica and you're fighting the Cylons, don't hide behind the black hole.
+They can see you.
+Our Sun will not collapse to a black hole; it's not massive enough, but there are tens of thousands of black holes in our galaxy.
+And if one of them were to devour the Milky Way, that's what it would look like.
+We'll see a shadow of a black hole against the hundreds of billions of stars in the Milky Way Galaxy and its luminous dust lanes.
+If we were to fall towards this black hole, we would see light being refracted around the black hole, and we might even begin to enter the shadow without feeling that something dramatic was happening.
+It would be bad if we tried to fire the rocket and get out of there, because we couldn't escape, not even light.
+Although the black hole is dark from the outside, it's not dark from the inside, because all the light from the galaxy can fall into the black hole with us.
+And even so, due to the relativistic effect of time dilation, our clocks seem to slow down relative to galactic time, and it looks as if the galaxy outside is accelerating, right before we are destroyed by the black hole.
+It's like a near-death experience where you see the light at the end of the tunnel, but it's a complete death experience.
+(Laughter) There's no way you can tell anyone that you see light at the end of the tunnel.
+So far, we've never seen a shadow like this of a black hole, but black holes can be heard, even if they're not seen.
+Imagine, in a real astronomical scene -- imagine two black holes that have lived together for a long time.
+Maybe they were stars and then collapsed to two black holes -- each one 10 times the mass of the Sun.
+Now we're going to crush them down to 60 kilometers.
+They can be rotated hundreds of times a second.
+At the end of their lives, they get close to each other at the speed of light.
+They can traverse thousands of kilometers in a fraction of a second, and as they do so, they not only bend space, but they leave behind in their wake a vibration of space, an actual wave of space-time.
+Space squeezes and stretches as black holes collide with the universe.
+These vibrations travel through space at the speed of light.
+This computer simulation was done by a relativistic group at NASA Goddard.
+It took almost 30 years to solve this problem.
+This is one of the groups.
+It shows two black holes spinning around each other, these are imaginary curves.
+And as you can see -- it might be a little fuzzy -- you can see the red waves coming out, and these are the gravitational waves.
+They're real cosmic sounds that will travel out from these black holes at the speed of light as they merge with each other until the two black holes merge into one quietly spinning black hole.
+If you stand close enough, your ear will resonate with the squeezing and stretching of space.
+You can really hear the sound.
+Of course, you'll helplessly find your head squeezed and stretched, so you might not be able to understand what's going on.
+But I'd like to play for you the sound of our prediction.
+This is the result of my group's research -- a relatively simple computational model.
+Imagine a less massive black hole falling into a more massive black hole.
+The sound you hear comes from a small black hole colliding with space as it gets closer to a massive black hole.
+If they were far away, it would be very quiet.
+But gradually the sound became like a mallet beating space, causing space to vibrate like a drum.
+We can predict what the sound will be.
+We know that, as it falls, it gets faster and it gets louder.
+And eventually, we're going to hear the little black hole fall completely into the big black hole.
+I never thought the sound was so loud -- it was actually amplified here.
+At home, it sounds kind of anticlimactic.
+It sounds like ding, ding, ding.
+This is another sound from our group.
+I'm not going to show you images here, because black holes don't leave any useful trails, and real space doesn't show you those virtual curves.
+But if you hear that sound while you're on vacation in the universe, I suggest you run.
+(Laughter) Want to get away from the sound.
+Both black holes are moving.
+The two black holes are getting closer together.
+In this case, they're both wobbling violently.
+And then they're going to merge.
+That chirp is a hallmark of black holes merging -- a chirp at the end of the fusion.
+So here's our prediction for what we're going to see.
+Luckily we're safe in Long Beach, California.
+There's no doubt that somewhere in the universe two black holes have merged.
+And surely, the space around us can also feel these vibrations that travel a million light years, or a million years ago, at the speed of light and eventually meet us.
+But the sound is too quiet for us to hear at all.
+There are experiments in the world that take a lot of effort to build -- one called LIGO -- that will detect spatial vibrations that are less than one nucleus at a distance of four kilometers.
+This is a very bold attempt, and its sensitivity will not be surpassed in the next few years -- it will be used to detect spatial vibrations.
+Another research project on the universe, called LISA, is expected to be launched within the next 10 years.
+LISA will be able to see super-massive black holes -- black holes millions or billions of times the mass of the Sun.
+In this Hubble image, we see these two galaxies.
+They look like they're still hugging each other.
+They may each have a super-massive black hole at their core.
+But they're not standing still, they're actually merging.
+These two black holes will collide, and they will merge over a billion-year period.
+So it's beyond our human perception to collect the sounds that they make.
+But LISA can see the final stages of two super-massive black holes that started merging a long time ago, the last 15 minutes before they merge.
+This detection is not limited to black holes, but it can also be used to detect any major disturbance in the universe -- the biggest of which is the Big Bang.
+When the term was coined, some people mocked -- "Oh, who would believe in a Big Bang?"
+This animation from my friends at Proton Studios shows looking at the Big Bang from the outside.
+We don't really want to do that; we want to be inside the universe, because there's no such thing as standing outside the universe.
+So imagine you're inside the Big Bang.
+The universe is everywhere, everything in the world is around you, and the space is wobbling disorderly.
+Fourteen billion years have passed, and the sound is still ringing around us.
+Galaxies form, and generations of stars form in them, and on one planet, at least one such planet, is habitable.
+Here, we're frantically building experiments, doing calculations, writing computer codes.
+Imagine a billion years ago, two black holes collided.
+The sound has been ringing through space for a long time.
+We're not even here.
+It gets closer and closer -- 40,000 years ago, we were still painting on the rock walls of the cave.
+If the sound we were going to pick up was from the Big Bang, it would sound like this.
+Strictly speaking, it's noise.
+It's white noise, it's a chaotic ringing.
+But it's everywhere around us, as long as it's not offset by some other process in the universe.
+If we could detect these sounds, it would be like music to our ears, because this quiet echo comes from the moment we were created, from the universe that we look up at.
+So in the next few years, we'll be able to turn up the soundtrack a little bit so that the universe can be presented to us in audio.
+But if we can detect those earliest moments, it will also take us a step closer to understanding the Big Bang, enabling us to ask some of the most difficult and elusive questions.
+If we play the history of the universe backwards, we know that there was a Big Bang in the past, and we might even hear the cacophonous sound of it, but was our Big Bang the only Big Bang?
+I mean we have to ask, has there been a Big Bang like that before?
+Will it happen again?
+I'd like to say that if you raise the significance of this question to the level that TED advocates for people to rethink, at least for this last minute, we can ask questions that we might never be able to answer.
+But we have to ask: Is it possible that our universe is just an episode in a larger history?
+Or, is it possible that we're just a branch of a multiverse -- each branch with its own Big Bang -- maybe some of them with black holes buzzing, maybe some without -- maybe some with conscious life, maybe some without -- not in our past, not in our future, but somehow connected to us?
+So we have to wonder, if there's a multiverse, in some other branch of that multiverse, is there life?
+This is life in our multiverse.
+Are there other creatures in the multiverse, wondering about our existence, wondering about their own origins?
+If so, I can imagine them as we are, computing, writing computer code, building instruments, trying to detect the faint sounds of their origins and wondering who else is out there.
+Thank you. Thank you.
+(Applause)
+One winter morning, a few years ago, I was driving to work in Johannesburg, South Africa, and noticed a haze hanging over the city.
+I drive by there almost every day, but this time it's unusual, and I've never seen anything like this before.
+Johannesburg is known for its distinctive skyline, but it was almost invisible that morning.
+It didn't take long for me to realize that what I was seeing was a severe haze caused by air pollution.
+The contrast between the beautiful environment I knew and this smog-covered skyline stirred up something within me.
+I was worried that it was possible that the once colorful sunset would be swallowed up by a dark haze.
+At that moment, I felt an urge to do something, but I didn't know what to do.
+All I know is that I can't just stand idly by.
+The biggest challenge was that I didn't know much about environmental science, air-quality management, or atmospheric chemistry.
+I'm a computer engineer, and I'm pretty sure I can't code my way out of this air pollution problem.
+(Laughter) In what capacity will I solve this problem?
+I'm just a citizen.
+In the following years, I learned a very important lesson that we should all take to heart if we are to achieve a better future.
+Even if you're not an expert in a particular field, your expertise may hold the key to solving problems in that field.
+Sometimes the unique perspective you have can inspire unconventional thinking that can shape the situation, but you need to be bold enough to try.
+That's the only way you'll ever know.
+What I knew at the time was that if I was to try to make a difference, I had to know enough about pollution first, so I became a student again.
+I did some basic research and soon learned that air pollution is the world's biggest environmental health risk.
+Data from the World Health Organization shows that in 2012, almost 14 percent of all deaths worldwide were attributable to household and ambient air pollution, particularly in low- and middle-income countries.
+Air pollution causes more deaths each year than malaria and AIDS.
+In Africa, premature deaths from unsafe sanitation, or childhood malnutrition, pale in the face of air pollution, and it comes at a huge economic cost: Over 400 billion US dollars in 2013, according to a study by the Organisation for Economic Cooperation and Development.
+In my work, I explore cutting-edge advances in artificial intelligence, including the symbiotic relationship between humans and machines, to find a beneficial footing and help us make better decisions.
+When I thought about the problem of air pollution, it became clear that we needed to find a better way to make better decisions about how to manage air pollution, and given the scale of the problem, it was necessary to work together.
+So I decided to get to know some people working in the field.
+I started talking to officials in Johannesburg and other surrounding cities, and I joined the local scientific community, and I also made a few phone calls to people who were completely unfamiliar but related.
+The experiences that I embarked on helped me to gain a deeper understanding of the problem.
+It also helped me to avoid the trap that people in my profession sometimes fall into when trying to innovate: To quickly adopt a technology before they've really grasped the problem.
+I began to wonder, what could I do to improve the situation?
+I began by asking myself how I could effectively integrate my knowledge and skills in software engineering and artificial intelligence with the expertise of the people I'd reached out to.
+I wanted to create an online air-quality management platform that would uncover trends in pollution in the future and make predictions about what might happen.
+I was sure that my idea would become a practical solution, but I faced uncertainty and had no guarantee of success.
+All I have is a specific set of engineer skills, the skills I have gained from my work. (Laughter) Of course, for people who have been working in the field of air pollution for many years, my skills are brand new.
+I have come to realize that sometimes a fresh perspective, a new skill set, can lead to something remarkable.
+Our willpower and imagination are a guiding light, guiding us through obstacles and opening a new chapter.
+After I gained a deeper understanding of the air pollution problem and found data on air pollution over the past decade, as well as meteorological data in and around Johannesburg, my colleagues from South Africa and China and I created an air-quality decision support system and uploaded it to the cloud.
+This software can analyze historical and real-time data to reveal trends in pollution over time and space.
+We then used new machine learning technology to predict future levels of pollution a few days in advance.
+This means that residents can make better decisions about their daily itinerary and where to settle with their families.
+We can predict adverse pollution events ahead of time, define heavy polluters, and the relevant authorities can order them to adjust their operations.
+Through assisted scenario planning, city planners can also make better decisions about how to expand infrastructure, such as human settlements in industrial zones.
+We have set up a pilot of this technology that has been running for 120 days, covering all of South Africa.
+Our expected results were validated, and the predictive data we showed showed a close correlation with the data we collected on the ground.
+Through our management, we have brought cutting-edge, world-leading instruments to predict air quality with unprecedented resolution and accuracy, benefiting the city I drove into one winter morning not long ago, when I said to myself, "Something is wrong. I have to figure out what to do."
+So the point is: What if I hadn't investigated the problem of air pollution further?
+What if I didn't pay attention to the state of the environment in my country and hoped that someone, somewhere else, would take care of it?
+What I've learned is that when working hard to advance a cause that we firmly believe in, it's important to focus on the possibility of success and consider the consequences of inaction.
+We should not be distracted by opposition and resistance, it should motivate us further.
+So wherever you are in the world, the next time you find that some natural curiosity is being piqued, and it's about something you care about, you have some crazy or bold ideas, even if it's not your area of expertise, ask yourself this: Why not?
+Why not just go ahead and tackle the problem as best as you can, in your own way?
+You might be pleasantly surprised.
+Thank you.
+(Applause)
+Many people think driving is something that only those who can see can do.
+A blind person driving a car safely and independently was thought to be an impossible task until now.
+Hello, my name is Dennis Hong, and we built a car for the freedom and independence of the blind for the visually impaired.
+Before I talk about this car for the blind, let me briefly talk about another project I worked on called the DARPA Urban Challenge.
+This is about building a robotic car that can drive itself.
+You press the start button, you don't touch anything anymore, and it can reach its destination completely automatically.
+In the 2007 Challenge, our team won half a million dollars and came in third place.
+Around that time, the National Federation of the Blind, or NFB, challenged the design team about who could develop a car that would allow a blind person to drive safely and independently.
+We thought we'd give it a try, because we thought, "Hey, how hard is this going to be?"
+We already have an autonomous car.
+We just put a blind person in it and we're done, right?
+(Laughter) We couldn't have been more wrong.
+What NFB wants is not a car that can drive a blind person around, but a vehicle where a blind person can make active choices and drive.
+So we had to give up everything we had and start from scratch.
+To test this crazy idea, we developed a small dune buggy prototype vehicle to test its feasibility.
+In the summer of 2009, we invited a lot of blind youth from all over the country and gave them a chance to take it for a spin.
+It was an absolutely amazing experience.
+But the problem with this car is that it's designed to only be driven in a very limited environment, like a closed parking lot -- even on a path made of red traffic cones.
+So with this success, we decided to take the next big step, to build a real car that can be driven on real roads.
+So how does it work?
+Well, it's a relatively complex system, but let me explain it and simplify it.
+We have three stages.
+We have induction, computing and non-visual interfaces.
+The driver is obviously invisible, so the system must be able to perceive the environment and collect data for the driver.
+For this, we use an initial measurement unit.
+It measures acceleration, angular acceleration -- like a human ear, inner ear.
+I combined this information with a global positioning system to predict the location of the vehicle.
+We also use two cameras to detect the lanes of the road.
+We also use three laser range finders.
+The laser scans the environment to detect obstacles -- the vehicle approaching from the front, the back and any obstacles that run into the road, any obstacles around the vehicle.
+All this vast amount of information is then fed into the computer, and the computer can do two things.
+First, one thing is to process the information to understand the environment -- which are the lanes of the road, which are the obstacles -- and convey that information to the driver.
+The system is also smart enough to figure out the safest way to drive.
+We can also issue instructions on how to operate the vehicle's operating procedures.
+But the question is: How can we send information and instructions to a blind person fast enough and accurate enough to make sure he can drive?
+So for this, we developed many different types of non-visual user interface technology.
+The original three-dimensional ping sound system, vibrating vests, voice-controlled gears, leg straps, even shoes that put pressure on the foot.
+But today we're talking about three of these non-visual user interface technologies.
+The first interface is called the DriveGrip.
+This is a pair of gloves, and it has vibrating elements on the knuckle, so you can transmit instructions on how to drive -- the direction and the amplitude.
+Another device is called SpeedStrip.
+This is a chair -- actually, this is a massage chair.
+We take it apart, and we rearrange the vibrating elements in different patterns, and we let them transmit information about the speed, as well as instructions on how to use the accelerator and the brake.
+Here, you can see how the computer understands the environment, and because you can't see the vibration, we actually put red light-emitting diodes on the driver, so he can see what's happening.
+This is the sensed data, which is transferred from the sensor to the computer.
+So these two devices, DriveGrip and SpeedStrip, are very effective.
+But the problem is these are instructional cue devices.
+So this is not really freedom, right?
+The computer tells you how to drive -- turn left, turn right, speed up, brake.
+I call this the co-driving problem.
+So we're moving away from instructional cue devices and focusing more on informational devices.
+A good example of this non-visual information interface is called AirPix.
+Think of this as a monitor for the blind.
+This is a small desktop, with lots of holes in it, and compressed air comes out of it, so it can be described as a picture.
+So even if you're blind and you put your hand over it, you can sense the lanes and obstacles.
+In fact, you can also change the frequency of the air coming out and possibly the temperature.
+This is actually a multi-dimensional user interface.
+Here, you can see the left and right cameras and how the computer interprets and sends this information to the AirPix.
+So, we're showing a simulator, a blind person driving with an AirPix.
+This program is very helpful for training blind drivers and quickly testing different theories for different types of non-visual user interfaces.
+So basically that's how it works.
+But this is a model car, and it's not going to be on the road unless it's proven to be as safe as, or safer than, today's car.
+I truly believe that this will happen.
+But will societies, will they accept this radical idea?
+How are we going to handle insurance?
+How are we going to issue driver's licenses?
+There are many different kinds of obstacles behind the technology challenge that we need to address before it becomes a reality.
+Of course, the main goal of this project is to design a car for the blind.
+But potentially more important than that is the tremendous value of the by-products of this project.
+Sensors that can be used to see through the dark, the rain and fog.
+And with this new type of interface, we can use these technologies to make them safer vehicles for visible people.
+Or for the blind, everyday home appliances -- educational facilities, office facilities.
+Imagine that in a classroom a teacher writes on the blackboard and a blind student can also use these non-visual interfaces to understand and read what the teacher writes.
+This is extremely precious.
+Today, what I've shown you is just the beginning.
+Thank you very much.
+(Applause)
+As an artist, connection is very important to me.
+Through my work I'm trying to make it clear that humans are not separate from nature and that everything is interconnected.
+I first went to Antarctica about 10 years ago, and I saw an iceberg for the first time.
+I was in awe.
+My heart beat fast, my head was dizzy, trying to understand what it was that stood in front of me.
+The icebergs around me were almost 200 feet out of the water, and I could only help but wonder that this was one snowflake on top of another snowflake, year after year.
+Icebergs are formed when they break off of glaciers or break off of ice shelves.
+Each iceberg has its own unique personality.
+They have a distinct way of interacting with their environment and their circumstances.
+Some refuse to give up and hold on to the end, while others can't take it anymore and crumble in a fit of intense passion.
+It's easy to think, when you look at an iceberg, that they're isolated, that they're separate, alone, more like we humans sometimes think of ourselves.
+But the reality is far from it.
+As the iceberg melts, I breathe in its ancient smell.
+As the iceberg melts, it releases mineral-rich fresh water that nourishes everything.
+I set out to photograph these icebergs as if I was taking portraits of my ancestors, knowing that in these individual moments they existed in that way and would never exist that way again.
+When they melt, it's not a death; it's not an end, but a continuation of their path through life.
+Some of the icebergs I've photographed are very young -- thousands of years old.
+Some of the ice is over 100,000 years old.
+The last picture I'd like to show you is of an iceberg I photographed in Kekertsuatsiak, Greenland.
+This is a very rare opportunity for you to actually witness an iceberg rolling.
+So here it is.
+You can see a small boat on the left.
+This is about a 15-foot boat.
+I'd like you to pay attention to the shape of the iceberg and how it deforms on the water.
+Here you see it begin to roll, the boat moves to the other side, and a man is standing there.
+This is an average-size Greenlandic iceberg.
+It's about 120 feet above the water, or 40 meters.
+This video was shot in real time.
+(Music) Like this iceberg, they show you different aspects of its personality.
+Thank you.
+(Applause)
+Do you know how many flowering plants there are?
+There are a quarter of a million -- at least as many as we know -- a quarter of a million species of flowering plants.
+And flowers are a real bugger.
+It's really difficult for plants to produce.
+It takes a lot of experience and a lot of resources.
+Why does it bother you so much?
+The answer, of course, is, like so many other things in the world, sex.
+I know what's on your mind when you look at these pictures.
+The reason why sexual reproduction is so important -- plants have many other ways to reproduce.
+They can take the form of cuttings; they can have sex with themselves; they can pollinate themselves.
+But they do need to spread their genes to mix with other genes so that they can be eco-friendly.
+Evolution works that way.
+Now the way that plants transmit this information is through pollen.
+Some of you may have seen these pictures before.
+As I said, every home should have a scanning electron microscope that can see these.
+There are as many different types of pollen as there are flowering plants.
+It's actually quite useful for forensics and so on.
+Most of the pollen that causes hay fever for us comes from plants that use the wind to spread the pollen, which is a very inefficient process, and that's why it gets up our noses all the time.
+Because most of them are discarded, hoping that the germ cells contained in the pollen, the male sex cells, will happen to fall on another flower.
+All the grasses, which means all the grains, and most of the trees have wind-borne pollen.
+But most species actually use insects to do this, and in a way that's smarter, because it doesn't require much pollen.
+Insects and other species can carry pollen and transfer it directly to where it is needed.
+So obviously, we're aware of the relationship between insects and plants.
+It's a symbiotic relationship, whether it's a bird or a bee, they get something in return, usually nectar.
+Sometimes this symbiotic relationship can lead to wonderful adaptations -- the red-skirt moth is a beautiful adaptation.
+The plant gets something, and the hawk-moth spreads the pollen elsewhere.
+Plants have evolved to create landing strips everywhere, and bees may have lost their way.
+There are markings on many plants that look like other insects.
+These are the anthers of a lily, cleverly done so that when an unsuspecting insect lands on it, the anther flips over and whops it on the back with a lot of pollen so that it can follow the insect to another plant.
+There's an orchid that looks like it's got jaws, and in a way, it does; it forces the insect to crawl over, get covered in pollen, and take it somewhere else.
+Orchids: There are at least 20,000 species of orchids -- amazingly diverse.
+They have all sorts of tricks.
+They have to try and attract pollinators to help them through the process.
+This orchid, known as Darwin's orchid, because it was studied by Darwin and made a wonderful prediction when he saw it, you can see that there's a very long nectar tube hanging down from the orchid.
+So basically what the insect has to do -- we're in the middle of the flower -- it has to stick its proboscis in the middle and all the way down to the nectar tube to get the nectar.
+Darwin said, looking at this flower, "I guess something has coevolved with it."
+And there's no doubt that it's insects.
+I mean, it's usually rolled up, but when it straightens out, that's what it looks like.
+Now you can imagine that if nectar is such a valuable thing that it's expensive for the plant to produce and it attracts a lot of pollinators, then, as in human sex, people might start to deceive each other.
+They might say, "I have some nectar. Would you like to come and get it?"
+This is a plant.
+This is a plant that insects in South Africa love, and they have evolved long proboscis to get the nectar at the bottom.
+This is an mimic.
+This plant is mimicking the first plant.
+There's a fly with a long proboscis that doesn't get any nectar from the mimic, because the mimic doesn't give it any nectar. It thought it could get it.
+So not only did the fly not get the nectar from the mimic plant, but also -- if you look very closely at the top of the head, you can see that there's some pollen that's going to be spread to another plant, if only some botanist hadn't come along and stuck it to a blue card.
+(Laughter) These lies are all over the plant kingdom.
+This flower with its black dots: They might look like black dots to us, but I tell you, to a male insect of the right species, they look like two very, very sexy females.
+(Laughter) When the insect gets there and lands on it, it immerses itself in pollen, which, of course, it will take to another plant, and if you look at the scanning electron microscope image that every home should have, you can see that there are actually some patterns there, three-dimensional patterns.
+It even makes the insect feel comfortable and looks good.
+These electron microscope images -- this is an orchid disguised as an insect -- you can see that different parts of the structure have different colors and different textures to our eyes, and insects may perceive very, very different textures.
+This orchid has evolved to mimic the glossy metallic surface you see on some beetles.
+You can see this surface under a scanning electron microscope -- very different from the other surfaces we've seen.
+Sometimes the whole plant mimics an insect, even to us.
+I mean, I think it looks like some sort of flying animal or beast.
+It's a wonderful and amazing thing.
+That's what's smart about it. It's called obsidian.
+I think it's cunning sometimes.
+To the right species of bee, this would look like another very aggressive bee, and it would fly over and hit it on the head many, many times, trying to drive it away, and, of course, it would get covered in pollen.
+The other thing it does is that this plant mimics another orchid that has a lot of food for insects.
+But there's nothing there.
+So it's deceiving on two levels -- incredible.
+(Laughter) We see ylang ylang, the part that has a strong aroma.
+I actually smelled it before.
+These flowers don't really have to be that gaudy.
+They're sending out a fantastic array of scent to any insect that's interested.
+This one doesn't smell so good.
+This flower actually smells pretty nasty, and again, it's evolved, and it looks like carrion.
+So flies love it.
+The flies fly in and they pollinate.
+This is white star arum, also known as dead horse arum.
+I don't know what a dead horse smells like, but this one probably smells pretty much like it.
+It's really horrible.
+Green-headed flies can't help themselves.
+They fly into it, they fly all the way into it.
+They lay their eggs on it, thinking it's a nice bit of carrion, and not realizing that there's no food for the eggs, that the eggs are going to die, but at the same time the plant will benefit, because the bristles release and the flies disappear and pollinate to another flower -- fantastic.
+This is the arum plant, arum maculatum, arum maculatum, which in this country is called elongated grass.
+I photographed this in Dorset last week.
+This guy heats up by about 15 degrees above ambient temperature -- amazing.
+And if you look inside, there's something a bit like a dam behind the spadix, flies are attracted by the heat -- this is boiling volatile chemicals, little insects -- and they're trapped under this container.
+They drink the sweet nectar and then they all get a little sticky.
+At night they're covered in pollen, sprayed down over them, and then the bristles we saw above wilt and allow these pollen-covered bugs to escape -- incredible.
+And if you think this is incredible, this is one of my favorites.
+This is the spring plume.
+Anyone here from Brazil should know about this plant.
+This is the most amazing thing.
+Its stamens are about a foot long.
+It has a power that no other plant that I know of has, and when it blooms -- this is the spadix in the middle -- for about two days, it produces a certain degree of metabolic change somewhat similar to that of mammals.
+Instead of having starch, which is the food of plants, it has something very similar to brown fat and burns it at a rate that burns fat, metabolizes, about the rate of a kitten.
+It's twice the energy output of a hummingbird by weight -- absolutely amazing.
+And it did something unusual.
+Not only will it heat up to 155 degrees Fahrenheit, 43 or 44 degrees Centigrade, for two days, but it will keep constant temperature.
+There's a thermoregulation mechanism in there that keeps constant temperature.
+Why do you do this? I hear you ask.
+Now you don't know, there's some beetles that just love to mate at this temperature.
+They get inside, and they get covered in pollen.
+(Laughter) And the plant showers them with pollen, and they leave to pollinate.
+What a wonderful thing it is.
+Now we think most pollinators are insects, but actually in the tropics, many birds and butterflies pollinate.
+Many tropical flowers are red, and that's because butterflies and birds are similar to us, we think, and can see red very well.
+But if you look at the spectrum, birds and us, we see red, green and blue and see that spectrum.
+Insects see green, blue and ultraviolet, and they see various shades of ultraviolet.
+And there's some color behind that.
+"Wouldn't it be great if we could see those colors", I hear you ask.
+Yes, we can see.
+So what does an insect see?
+Last week I took these pictures of the desert lotus, helianthemum, in Dorset.
+As we can see, these are little yellow flowers, little yellow flowers all over the place.
+And that's what it looks like in visible light.
+This is what it looks like if you take out the red.
+Most bees don't perceive red.
+Then I put an ultraviolet filter in front of my camera and took a long exposure at a specific frequency of ultraviolet light, and I got this picture.
+It's like a real fantastic bull's eye.
+Now we don't know exactly what a bee sees, and when I call it red, you know what I'm looking at.
+We have no way of knowing what's going on in it, whether it's an insect or some other human being.
+But that's what the contrast looks like, standing out from the background.
+Here's another little flower -- different range of ultraviolet frequencies, different filters to match the pollinators.
+And that's about what it looks like.
+Just in case you think that all yellow flowers have this property -- no flower was damaged during the shooting; it was just attached to the tripod, not taken off -- under ultraviolet light, look at this.
+This can be used as the basis for sunscreens, because sunscreens work by absorbing ultraviolet light.
+So maybe the chemicals in it are useful.
+Finally, this is an evening primrose that Bjorn Rorslett from Norway sent me -- a wonderful hidden pattern.
+I love the way it's hidden.
+I think it's poetic. These pictures were taken with ultraviolet filters, and the main use of this filter is for astronomers to take pictures of Venus -- actually the clouds on Venus.
+This is the main use of this filter.
+Venus, of course, is the god of love and fertility, which is the flower story.
+And just as flowers spend so much effort trying to get pollinators to accept their invitations, they've also somehow managed to convince us that they're rich in content and that we send flowers to each other at times of birth and death, especially at weddings, and when you think of it, that's the moment that genetic material is transferred from one organism to another.
+Thank you very much.
+(Applause)
+Today I'd like to show you the way we make things in the future.
+I believe that soon our buildings and machines will be self-assembling, replicating and repairing themselves.
+So I'm going to show you what I think is the current state of manufacturing, and then compare it to some natural systems.
+So in the current state of manufacturing, we have skyscrapers -- two and a half years, 500,000 to a million parts, very complex, new technologies in steel, concrete, glass.
+We have exciting machines that can take us into space -- five years, 2.5 million parts.
+But on the other hand, if you look at the natural systems, we have two million types of proteins that can fold in 10,000 nanoseconds, and we can replicate DNA with three billion base pairs in about an hour.
+That's the complexity of our natural systems, but they're extremely efficient, far more efficient than anything we can build, far more complex than anything we can build.
+They're more efficient in terms of energy.
+They rarely make mistakes.
+They can repair themselves for longevity.
+So there's something super interesting about natural systems.
+And if we can translate that into our built environment, then there's a lot of potential for the way we build things.
+I think the key is self-assembly.
+If we want to use self-assembly in our physical environment, I think there are four key factors.
+The first is that we're going to decode all the complexity of what we're going to build -- our buildings and machines.
+We need to decode them into simple sequences -- basically the DNA of how our buildings work.
+And then we need programmable parts that can take that sequence and use it for folding or reshaping.
+We need some energy to activate so that these parts of us can fold up according to the program.
+We need some type of error correction redundancy to ensure that we successfully build what we want.
+So I'm going to show you some of the projects that my colleagues and I are working on to achieve this self-assembling future.
+The first two projects are MacroBot and DeciBot.
+These projects are large-scale reconfigurable robots -- 8-foot, 12-foot long proteins.
+They're embedded in electromechanical devices, sensors.
+You decode what you want to fold into, into a sequence of angles -- negative 120, negative 120, 0, 0, 120, negative 120 -- something like that; a sequence of angles, or turns, and you send that sequence through the wire.
+Each unit takes its own message -- so negative 120 -- it rotates, checks if it's in place and then passes the sequence to its neighbor.
+There are many outstanding scientists, engineers, designers working on this project.
+I think this project really reveals: Is this really scalable?
+I mean, thousands of dollars and lots of man-hours to make this eight-foot robot.
+Can we really scale it up? Can we really embed robots in every part?
+The next question is to look at passivity, or passively trying to make reorganization programmability.
+But it goes a step further, and it tries to do actual computing.
+It basically embeds the basic building block of most computing, the digital logic gate, directly into each part.
+This is a NAND gate.
+There's one tetrahedron on each gate that's going to be used for computing, and there's two input tetrahedrons.
+One of them is the input from the user, as if you were building a brick.
+The other one is the input of a brick that was placed before.
+And then it gives you an output in three-dimensional space.
+This means that users can build bricks the way they want them to.
+It calculates on what it was doing before and what you said you wanted it to do.
+Now it starts moving in three-dimensional space -- up or down.
+So on the left-hand side, [1,1] input equals 0 output, which goes down.
+On the right, [0,0] input is a 1 output, which goes up.
+So what this really means is that our structures now contain the blueprints that we want to build.
+So all the information about what you want to build is embedded in it.
+This means that we have some form of self-replication.
+In this case, I call it self-guided replication, because your structure contains precise blueprints.
+If you have an error, you can replace a part.
+All the local information is embedded to tell you how to fix it.
+So you have something that climbs, you can read it and output it one by one.
+It's directly embedded; there's no external instructions.
+The last project I'm going to show is called Biased Chains, and it's probably the most exciting example of a passive self-assembly system we've seen right now.
+It has reconfigurability and programmability that makes it a completely passive system.
+So basically you have a chain of elements.
+Each element is exactly the same, and they're biased.
+Each chain, or each element, wants to turn right or left.
+If you want to assemble a chain, you need to program it.
+You tell each unit whether to turn left or right.
+And when you shake the chain, it folds up into any structure that you've programmed for it -- so in this case, a spiral, in this case, two cubes connected.
+So basically you can program in three-dimensional space -- or one-dimensional, two-dimensional -- and the chain is completely passive.
+So what does this tell us about the future?
+I think this tells us about the possibility of self-assembly, self-replication and self-repair in our physical structures, our buildings and machines.
+There's new programmability in these parts.
+And from that you have new possibilities for computing.
+We're going to have spatial computing.
+Imagine that our buildings, our bridges, our machines, all of our bricks can actually compute.
+What an amazing parallel and distributed computing power and new design possibilities.
+This is exciting potential.
+I think these projects I've shown you are just a small step towards the future, if we implement these new technologies for a new self-assembling world.
+Thank you.
+(Applause)
+Recently, we've seen the effects of cyber attacks on the business world.
+Data breaches at companies like JPMorgan Chase, Yahoo, Home Depot and Target have caused losses of hundreds of millions, if not billions, of dollars.
+A few more attacks like this, and the entire world economy will collapse.
+The public sector has not been immune.
+From 2012 to 2014, there was a very serious data breach at the US Office of Personnel Management.
+Security clearance and fingerprint information was stolen, affecting 22 million employees.
+And you may have heard that some government-sponsored hackers are trying to use stolen data to influence election outcomes in some countries.
+Two recent examples are the theft of large-scale data from the German Bundestag and the theft of emails from the US Democratic National Committee.
+The cyber threat is already affecting our democratic processes.
+And it's likely to get worse.
+The more advanced computer technology is, the more vulnerable the means we use to protect our data.
+In particular, a new type of computer technology, called quantum computing, uses microscopic particles in nature to dramatically increase the computational power of computers.
+It's powerful enough to crack many of the encryption systems we use today.
+So are we hopeless?
+Should we start packing our electronic survival gear for the upcoming data apocalypse?
+I think, not yet.
+Quantum computers are still in the labs, and it will take years for them to be put to practical use.
+More important, there have been major breakthroughs in the field of encryption.
+For me, this is a very exciting time in the history of secure communications.
+About 15 years ago, when I learned that we had unlocked new skills to create quantum effects that don't exist in nature, I was excited.
+The idea of using the fundamental laws of physics to advance encryption excites me.
+Today, a select group of companies and labs, including mine, are taking this technology to practical applications.
+That's right.
+We're going to fight quantum with quantum.
+How does this work?
+First, let's take a quick look at the world of encryption.
+You need a briefcase, you have some important documents to send to your friend, James Bond, and you need to lock it up for safety.
+Because these materials are top secret, we're going to use a super-advanced briefcase.
+It comes with a special combination lock that, once locked, converts the contents of the document to random numbers.
+So you just put the documents in, close the lock, and by this time the documents have been converted to random numbers, and you send the briefcase to James.
+While the briefcase is on its way, you call him to give him the code.
+As soon as he gets the briefcase, he enters the code, the documents are unscrambled, and you successfully send an encrypted message to James Bond.
+(Laughter) A fun example, but it does illustrate three things important for encryption.
+The code -- we call this an encryption key.
+You can think of it as a code.
+The call to James to give him the code.
+We call this key exchange.
+This ensures that we can safely deliver the keys to the right place.
+And the lock used to encrypt and decrypt the documents.
+We call this an encryption algorithm.
+Using the key, it converts the contents of the document to random numbers.
+A good algorithm can do this, and it's hard to break the code without the key.
+The importance of the algorithm is that if someone gets the briefcase and opens it, without the key and without knowing the encryption algorithm, they can't read the document.
+All you get is a bunch of random numbers.
+Most security systems rely on a secure method of key exchange to communicate the key to the right place.
+However, rapid increases in computing power are putting at risk many of the key exchange methods we currently use.
+For example, we now have a very widely used system -- RSA.
+When it was invented in 1977, it took about 40 billion years to break a 426-bit RSA key.
+And in 1994, just 17 years later, the code was broken.
+As computers have become more and more powerful, we've had to use larger and larger codes.
+Now we often use 2048 or 4096 bits.
+As you can see, the battle between the encryptors and the breakers is going on, trying to defeat each other.
+And when quantum computers arrive in the next 10 to 15 years, they will even more rapidly crack the complex mathematical algorithms that underlie the encryption systems we use today.
+In fact, quantum computers will turn our security castle into a mere house of cards.
+We have to find a way to protect our castle.
+There's been a growing body of research in recent years looking at how quantum effects can be used to enhance encryption.
+There have been some exciting breakthroughs.
+Remember the three things important for encryption -- high-quality keys, secure key exchange and a strong algorithm.
+However, advances in science and engineering have put two of these priorities at risk.
+First of all, the keys.
+Random numbers are the building blocks of encryption keys.
+But today, they're not truly random.
+For example, we generate keys based on the frequency of random numbers, generated by software, which we call pseudo-random numbers.
+Numbers generated by a program or a mathematical method will always have some, perhaps less obvious, pattern in them.
+The less random the numbers are, or in technical terms, the less entropy they contain, the easier they are to predict.
+Recently, some casinos have been attacked in a creative way.
+They took pictures of the slot machines for a period of time and then analyzed them.
+The cyber criminals used reverse engineering to create the pseudo-random number generator behind the turntable.
+So they have a good chance of predicting the spins of the wheels and making a lot of money.
+The keys are equally insecure.
+Having a true random number generator is important for generating secure passwords.
+For years, researchers have been working on building true random number generators.
+But most designs are either not random enough, fast enough, or difficult to reuse.
+But the quantum world is truly random.
+It's important to take advantage of this true randomness.
+Devices that can measure quantum effects can produce a continuous stream of random numbers very quickly.
+The casino crime that I was talking about is no longer possible.
+Several universities and companies around the world are focusing on building true random number generators.
+At my company, our quantum random number generator was born out of a two meter by one meter optical table.
+And then we reduced it to the size of a box.
+Today, it's possible to put it on a PCI card and plug it into an ordinary computer.
+This is the world's fastest, truly random number generator.
+It measures quantum effects to produce a billion random numbers per second.
+Today it has been widely used around the world to improve the security of cloud providers, banks and government agencies.
+(Applause) But even with a true random number generator, we still face the second big cyber threat: The problem of secure key exchange.
+Current key exchange technology will not stand up to a quantum computer.
+The quantum solution to this problem is called quantum key distribution, or QKD, which takes advantage of a fundamental, counterintuitive characteristic of quantum mechanics.
+The act of looking at a microscopic particle changes that particle.
+Let me give you an example.
+Consider again, we're going to give the code to James Bond.
+But this time, instead of calling him, we're going to use quantum effects to carry the code on a laser and send it to James via standard optical fiber.
+We assume that Dr. No wants to get the code.
+Fortunately, Dr. No's attempt to intercept this quantum key will leave an electronic fingerprint that James and you can detect.
+This allows the intercepted key to be discarded.
+And the keys that are left behind can provide strong data protection.
+Because this security mechanism is based on the fundamental principles of physics, a quantum computer, or any future supercomputer, will not be able to crack it.
+My team and I are working with leading universities and the defense sector to improve this exciting technology and develop the next generation of security products.
+The Internet of Things heralds a highly interconnected era, with 25 to 30 billion devices expected to be connected to the Internet by 2020.
+For our societies to function properly in an IoT world, trust in these interconnected device systems is essential.
+We believe that quantum technology will be very important in building this trust, enabling us to fully benefit from these amazing innovations that can enrich our lives.
+Thank you.
+(Applause)
+You all know the truth of what I'm going to say.
+I think the intuition that inequality can cause social fragmentation and corruption has been around since before the French Revolution.
+The difference is that we can now find evidence that we can compare societies, societies with different levels of equality, to understand the effects of inequality.
+I'm going to show you some data and explain why that data is actually related.
+But first, let's see how miserable our lives are.
+(Laughter) I'd like to start my speech with a paradox.
+This shows you life expectancy in relation to gross national income -- how rich countries are on average.
+You see the countries on the right, like Norway and the United States, are twice as rich as Israel, Greece, Portugal on the left.
+But that doesn't affect their life expectancy.
+There's no suggestion of a relationship.
+But if we look within our societies, we can see that there are huge differences in health within their entire societies.
+This is still life expectancy.
+These are small towns in England and Wales -- the poorest on the right, the richest on the left.
+There's a big difference between the poor and the rest of us.
+Even the people just below the top have poorer health than the people at the top.
+So income means a lot in our societies, but it doesn't make sense in comparison between societies.
+The explanation of that paradox is that, in our societies, we're looking at relative income or social status, social status -- where we are in relation to each other and the size of the differences between us.
+As soon as you have that idea, you should immediately wonder: What happens if the gap widens, what if it narrows, widens or narrows the income gap?
+That's what I'm going to tell you.
+I'm not using any hypothetical data.
+My data comes from the United Nations -- like the World Bank -- on the income differences between these rich, developed market democracies.
+The method we use, simple and easy to understand, and you can download it, is to compare the income differences between the top 20 percent and the bottom 20 percent in each country.
+You can see that the countries on the left are more equal -- Japan, Finland, Norway, Sweden -- and the top 20 percent are about 3.5 to 4 times as rich as the bottom 20 percent.
+But on the more unequal end -- U.K., Portugal, USA, Singapore -- the income differences are twice as large.
+In this way, our country (the UK) is twice as unequal as some of the other successful democratic markets.
+Now I'm going to show you what that does to our societies.
+We collected data on problems with social gradients, which are more common at the bottom of the social ladder.
+Internationally comparable data include life expectancy, children's maths and literacy scores, infant mortality rates, suicide rates, proportion of the population in prison, teenage pregnancy rates, levels of trust, obesity, mental illness -- which in standard diagnostic classification includes drug and alcohol addiction -- and social mobility.
+We put all of this into one coefficient.
+They're all weighted equally.
+A country's score is the average of these factors.
+As you can see, these scores are related to the inequality comparison I've just shown you, and I'm going to show that data over and over again.
+The more unequal countries do worse on all kinds of social problems.
+There's a very strong correlation.
+But if you look at the same index of health and social problems in relation to gross national income per capita and gross national income, there's nothing there, no correlation anymore.
+We were a little bit worried that people might think that we were choosing specific problems to suit our theories and then artificially creating evidence, so we also published a paper in the British Medical Journal on the UNICEF index of child well-being.
+It has 40 different parts, summed up by others.
+It includes whether children can talk to their parents, whether they have books at home, what immunization rates are, and whether there's bullying at school.
+Everything goes into it.
+So that's how the index relates to the same level of inequality.
+Children do worse in the more unequal societies.
+Highly significant relationship.
+But again, if you look at the relationship between child well-being and national income per capita, you're going to get nowhere. There's no suggestion of a relationship.
+All the data I've shown you so far reveals the same thing.
+The average well-being of our societies is no longer dependent on national income and economic growth.
+They're very important in poorer countries, but not in the rich developed world.
+And the differences between us and where we are in relation to each other now seem very important.
+Now I'm going to show you some of the parts of our index.
+This is the mutual trust index.
+It's the proportion of the population who agree that most people can be trusted.
+This is data from the World Values Survey.
+You see, on the more unequal side, about 15 percent of the population feel they can trust others.
+But in the more equal societies, it rises to 60 or 65 percent.
+If you look at measures of participation in community activities or social capital, there are very similar relationships closely related to inequality.
+I would say, we did this work twice.
+We did it first on these rich developed countries, and then we changed the test and repeated it on the 50 American states -- asking the same question: Do the more unequal states do worse on all of these measures?
+This is the relationship between trust and inequality in a general social survey conducted by the federal government.
+Very similar scatter over a similar range of levels of trust.
+The same thing is going on.
+Basically we found that almost all of the factors related to trust that are reflected in international surveys are also reflected in the 50 states that we surveyed separately.
+This is no coincidence.
+This is mental illness.
+The World Health Organization collects data using the same diagnostic interviews on random samples that allow us to compare rates of mental illness in each society.
+This is the proportion of the population with any mental illness in the previous year.
+It goes from about 8 percent to more than 24 percent -- which means that society as a whole is three times as likely to have mental illness as any other society.
+Again, these are closely related to inequality.
+This is the crime rate.
+The red dots are American states, and the blue triangles are Canadian provinces.
+But look at the differences in their numbers.
+The murder rate goes from 15 homicides per million up to 150.
+This is the proportion of the population in prison.
+This is a tenfold difference, and the exponential function will magnify the difference.
+But the changes in the prison population range from 40 to 400.
+Crime is not the main reason for this relationship.
+In some places, crime can explain part of the reason.
+But it's more about harsher sentencing, or harsher sentencing.
+The more unequal societies are more likely to retain the death penalty.
+This is children dropping out of high school.
+Again, there's a big difference.
+If we discuss the selection of social talents, we can see that this gap is very damaging.
+This is social mobility.
+It's actually a measure of mobility based on income.
+Basically, it's asking: Do rich fathers have rich sons and poor fathers have poor sons, or is there no relationship between the two?
+On the more unequal side, fathers' income is more important -- in the U.K., USA.
+And in northern Europe, fathers' income is less important.
+There's more social mobility.
+As we often say -- and I know there are a lot of Americans in the audience here -- if Americans want to realize their "American dream", they should go to Denmark.
+(Laughter) (Applause) I've shown you in italics here.
+I can also show you some other problems.
+Those problems are more common at the bottom of the social gradient.
+But there are endless problems with social gradients that are worse in unequal countries -- not just a little bit worse, but anything from twice as common to 10 times as common.
+Think of the expense, the human cost.
+I'd like to go back to this graph that I showed you earlier where we put it all together to make two points.
+First, in graph after graph, we find that the countries that do worse, whatever the outcome, seem to be the more unequal ones, but the ones that do well seem to be the Nordic countries and Japan.
+So what we're looking at is the relationship between general social disorder and inequality.
+It's not just one or two things that go wrong, it's almost everything.
+The other very important point I'd like to make on this graph is that if you look at the bottom, Switzerland and Japan, they're very different countries in all sorts of ways.
+The status of women, the extent to which they stick to the nuclear family, are at two extremes in the rich developed world.
+But another very important difference is how they achieve greater equality.
+Sweden has big differences in income, but it uses taxes, state benefits, generous benefits and so on to close the gap.
+Japan is rather different.
+First of all, Japan has a smaller pre-tax wage gap.
+It has lower taxes.
+It also has a smaller welfare state.
+And in our study of the American states, we find a stark contrast.
+Some states do well through redistribution, while others do well because they have smaller income differences before tax.
+So we conclude that it doesn't matter how you achieve greater equality, what matters is that you can achieve that equality.
+I'm not talking about complete equality, I'm talking about what does exist in rich developed market democracies.
+Another surprising thing about this graph is that it's not just the poor who are affected by inequality.
+There seems to be some truth in John Donne's words: "No man is an island."
+Through a series of studies, we can compare the behavior of people at each social level in more or less equal countries.
+This is just one example.
+This is infant mortality.
+According to the British General Socio-Economic Classification, some Swedes very kindly classified a lot of infant deaths.
+This is an anachronistic classification based on fathers' occupations, so single mothers have their own set of data.
+But when we look at the so-called "lower social classes", it's unskilled manual work.
+In the middle are skilled manual jobs, then advanced non-manual jobs, up to professional jobs -- doctors, lawyers, managers of large companies.
+You can see here that Sweden is doing better than Britain, doing better at every level of society.
+The biggest differences are at the bottom of society.
+But even at the top, living in a more equal society has some advantages.
+We showed five different sets of data covering educational outcomes and health in the United States and internationally.
+It seems that on the whole -- the more equal societies show the most obvious differences at the bottom, but they also have some advantages at the top.
+I should explain what's going on.
+I think I'm showing and discussing the psychosocial effects of inequality.
+It's more about feelings of superiority and inferiority, being valued and looked down upon, respected and devalued.
+Of course, the feelings generated by the competition for status drive the consumerism of society.
+But it also leads to status insecurity.
+We worry more about how we're judged and seen by others, whether we're attractive, smart, all that sort of thing.
+Social-evaluative judgments increase the fear of these social-evaluative judgments.
+Interestingly, some similar work is going on in social psychology: Some people reviewed 208 different studies in which volunteers were invited to a psychological laboratory and then tested for their stress levels and their responses to doing stressful tasks.
+In this observation, scientists were interested in what kind of stress is most likely to raise levels of cortisol, the most important stress hormone.
+The result is tasks that include social-evaluative threats -- tasks that threaten self-esteem and social status -- tasks in which others can negatively judge your performance.
+These stresses have a very particular effect on the physiology of stress.
+So far we have been criticized.
+Of course, there are people who don't like this, and people who find this very surprising.
+But I should tell you that when people criticize us for picking and choosing data, we never do so.
+We have an unconditional rule that if our data source contains data for the country we're looking at, then we incorporate it into the analysis.
+Our data source determines whether the data is valid, not us.
+Otherwise it would be biased.
+What about other countries?
+There are 200 studies of health in relation to income and equality in the academic peer-reviewed journals.
+This is not confined to these countries here, but it hides a very simple proof.
+The same countries, the same measure of inequality, one problem after another.
+Why don't we control other factors?
+I've shown you that per capita national income doesn't make any difference.
+Of course, others have used more sophisticated methods in the literature to rule out poverty, education and other factors in the experiment.
+What about causality?
+Correlation in itself does not prove causality.
+We spent a good bit of time.
+Indeed, people have a good understanding of the causality of our outcomes.
+The biggest change in our understanding of the drivers of long-term health in the rich developed world is how important chronic stress from society is affecting the immune system and the cardiovascular system.
+Or for example, the reason why violence is becoming more common in more unequal countries is because people are sensitive to being looked down upon.
+I would say that in order to solve this problem, we have to deal with the post-tax and pre-tax problems.
+We should limit income and curb the bonus culture at the top.
+I think we have to do everything we can to hold our leaders accountable to their employees.
+I'd like to conclude by saying that we can improve our real quality of life by reducing the differences in income between us.
+In this way, we'll find that we've suddenly solved the psychosocial well-being of an entire society, and that's amazing.
+Thank you.
+(Applause)

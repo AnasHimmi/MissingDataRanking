@@ -1,0 +1,16 @@
+OriolVinyals
+ryank
+junhua.mao
+mRNN_share.JMao
+Q.Wu
+myamaguchi
+kolarmartin
+mmitchell
+NearestNeighbor
+human
+TsinghuaBigeye
+karpathy
+jeffdonahue
+kelvin_xu
+MSR_Captivator
+rakshithShetty

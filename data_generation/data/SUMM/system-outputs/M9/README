@@ -1,0 +1,13 @@
+## Model Information
+Authors: Yen-Chun Chen, Mohit Bansal
+Paper: Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting
+Model code: M9
+
+
+## Preparing data
+To match model outputs with source articles follow the instructions listed in the repository's README.
+
+
+## Important
+Model outputs were obtained from the original authors of the models and shared with their consent. When using any of the model outputs, please cite the original paper.
+

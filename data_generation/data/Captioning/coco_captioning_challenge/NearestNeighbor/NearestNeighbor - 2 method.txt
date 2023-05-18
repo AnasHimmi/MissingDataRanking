@@ -1,0 +1,7 @@
+method_name: Nearest Neighbor
+method_description: k-Nearest Neighbor approach.
+project_url: 
+publication_url: 
+bibtex: 
+team_name: Nearest Neighbor
+organization_or_affiliation: 

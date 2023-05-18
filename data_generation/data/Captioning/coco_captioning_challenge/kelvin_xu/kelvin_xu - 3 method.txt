@@ -1,0 +1,12 @@
+method_name: Soft attention
+method_description: An ensemble of 7 soft attention models.
+project_url: https://kelvinxu.github.io/projects/capgen.html
+publication_url: 
+bibtex: @article{Xu2015show,
+    title={Show, Attend and Tell: Neural Image Caption Generation with Visual Attention},
+    author={Xu, Kelvin and Ba, Jimmy and Kiros, Ryan and Courville, Aaron and Salakhutdinov, Ruslan and Zemel, Richard and Bengio, Yoshua},
+    journal={arXiv preprint arXiv:1502.03044},
+    year={2015}
+}
+team_name: Montreal/Toronto
+organization_or_affiliation: Université de Montréal/University of Toronto
