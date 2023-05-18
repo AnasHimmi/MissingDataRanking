@@ -1,0 +1,12 @@
+final_df/MT/WMT18/newstest2018.cs-en.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT21/newstest2021.zh-en.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT19/newstest2019.en-de.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT19/newstest2019.de-en.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT18/newstest2018.en-de.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT18/newstest2018.de-en.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT18/newstest2018.zh-en.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT18/newstest2018.en-cs.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT16/newstest2016.en-cs.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/Captioning/coco_data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/MT/WMT19/newstest2019.en-cs.data.csv filter=lfs diff=lfs merge=lfs -text
+final_df/SUMM/SUMM.csv filter=lfs diff=lfs merge=lfs -text
