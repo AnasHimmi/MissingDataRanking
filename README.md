@@ -66,7 +66,7 @@ The results for the robustness analysis can be plotted using **task_level_plot_c
 
 ### Instance Level:
 - **task_level_calculate_correlations.py** : Contains functions to calculate the one level and two level Borda ranking for a DataFrame with missing values in the instance level and conduct the robustness analysis. \
-The DataFrame should be in this form :
+The DataFrame should be in this form, and all systems should have the same utterances :
 
 $$
 M = \begin{bmatrix} \text{System} & \text{Utterance} & M_{1} & M_{2} & \cdots & M_{|M|} \ 
