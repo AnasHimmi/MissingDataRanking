@@ -36,7 +36,7 @@ python ranking_cli.py --df_to_rank=$PATH_TO_DF_TO_RANK --mode=$MODE --best_score
 ## To reproduce the results of our paper:
 
 ### Task Level:
-**task_level_calculate_correlations.py** : Contains functions to calculate the one level Borda ranking for a DataFrame with missing values in the task level and conduct the robustness analysis.
+**task_level_calculate_correlations.py** : Contains functions to calculate the one level Borda ranking for a DataFrame with missing values in the task level and conduct the robustness analysis. \
 The DataFrame should be in this form :
 
 $$
@@ -62,7 +62,7 @@ for seed in {0..99}; do
 python3 task_level_calculate_correlations.py --file=example.csv --seed=${seed};
 done
 ```
-The results for the robustness analysis can be plotted using **task_level_plot_correlations.ipynb** \
+The results for the robustness analysis can be plotted using **task_level_plot_correlations.ipynb**
 
 ### Instance Level:
 - **task_level_calculate_correlations.py** : Contains functions to calculate the one level and two level Borda ranking for a DataFrame with missing values in the instance level and conduct the robustness analysis. \
