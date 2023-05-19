@@ -12,6 +12,7 @@ To regenerate the data, in particular calculating the metrics, we estimate the t
 
 Start by installing our requirements:
 ```pip install -r requirements.txt```
+For the CLI, the only files needed are **partial_rankings.py** and **ranking_cli.py**.
 
 ## Usage:
 
