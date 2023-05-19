@@ -20,41 +20,14 @@ from metrics.infolm import InfoLM
 class Metrics():
     def __init__(self, ncorder=6, beta=2, we=None, device='cpu'):
 
-        """
-        BLEU metric: https://github.com/mjpost/sacrebleu
-        Args:
-                :param use_effective_order: Account for references that are shorter than the largest n-gram.
-                :param force: Ignore data that looks already tokenized
-                :param lowercase: Lowercase the data
-                :param n_workers: number of processes to use if using multiprocessing
-                sent* parameters are the same but specify what is used for evaluate_example
-        """
         self.device=device
 
-        """
-        Chrf++ metric: https://github.com/mjpost/sacrebleu
-        Args:
-                :param ncorder: character n-gram order
-                :param beta: beta parameter to balance precision and recall
-        """
         self.ncorder = ncorder
         self.beta = beta
-
-        """
-        ROUGE-related metrics by Maxime 
-        """
-        """
-        S3 metric: https://github.com/UKPLab/emnlp-ws-2017-s3/tree/b524407ada525c81ceacd2590076e20103213e3b
-        """
-        # self.s3_model_folders = "metrics/s3_models"
         self.we = we
-        
-        """
-        JS metric by Maxime 
-        """
+             
 
-            
-            
+
 
 class Random(Metrics):
     def __init__(self,device='cpu'):
@@ -268,7 +241,7 @@ class Infolm_renyi(Metrics):
         sys, ref = [sys], [ref]
         idf_ref, idf_hypot = self.infolm_metric['renyi'].prepare_idfs(ref, sys)
         final_preds = self.infolm_metric['renyi'].evaluate_batch(ref, sys)
-        return - final_preds['renyi'][0]
+        return final_preds['renyi'][0]
 class Infolm_beta(Metrics):
     def __init__(self,device='cpu'):
         Metrics().__init__(self,device=device)
@@ -280,7 +253,7 @@ class Infolm_beta(Metrics):
         sys, ref = [sys], [ref]
         idf_ref, idf_hypot = self.infolm_metric['beta'].prepare_idfs(ref, sys)
         final_preds = self.infolm_metric['beta'].evaluate_batch(ref, sys)
-        return - final_preds['beta'][0]
+        return final_preds['beta'][0]
 class Infolm_ab(Metrics):
     def __init__(self,device='cpu'):
         Metrics().__init__(self,device=device)
@@ -292,7 +265,7 @@ class Infolm_ab(Metrics):
         sys, ref = [sys], [ref]
         idf_ref, idf_hypot = self.infolm_metric['ab'].prepare_idfs(ref, sys)
         final_preds = self.infolm_metric['ab'].evaluate_batch(ref, sys)
-        return - final_preds['ab'][0]
+        return final_preds['ab'][0]
 class Infolm_l1(Metrics):
     def __init__(self,device='cpu'):
         Metrics().__init__(self,device=device)
@@ -304,7 +277,7 @@ class Infolm_l1(Metrics):
         sys, ref = [sys], [ref]
         idf_ref, idf_hypot = self.infolm_metric['l1'].prepare_idfs(ref, sys)
         final_preds = self.infolm_metric['l1'].evaluate_batch(ref, sys)
-        return - final_preds['l1'][0]
+        return final_preds['l1'][0]
 class Infolm_l2(Metrics):
     def __init__(self,device='cpu'):
         Metrics().__init__(self,device=device)
@@ -316,7 +289,7 @@ class Infolm_l2(Metrics):
         sys, ref = [sys], [ref]
         idf_ref, idf_hypot = self.infolm_metric['l2'].prepare_idfs(ref, sys)
         final_preds = self.infolm_metric['l2'].evaluate_batch(ref, sys)
-        return - final_preds['l2'][0]
+        return final_preds['l2'][0]
 class Infolm_linf(Metrics):
     def __init__(self,device='cpu'):
         Metrics().__init__(self,device=device)
@@ -328,7 +301,7 @@ class Infolm_linf(Metrics):
         sys, ref = [sys], [ref]
         idf_ref, idf_hypot = self.infolm_metric['linf'].prepare_idfs(ref, sys)
         final_preds = self.infolm_metric['linf'].evaluate_batch(ref, sys)
-        return - final_preds['linf'][0]
+        return final_preds['linf'][0]
 class Infolm_fisher_rao(Metrics):
     def __init__(self,device='cpu'):
         Metrics().__init__(self,device=device)
@@ -340,7 +313,7 @@ class Infolm_fisher_rao(Metrics):
         sys, ref = [sys], [ref]
         idf_ref, idf_hypot = self.infolm_metric['fisher_rao'].prepare_idfs(ref, sys)
         final_preds = self.infolm_metric['fisher_rao'].evaluate_batch(ref, sys)
-        return - final_preds['fisher_rao'][0]
+        return final_preds['fisher_rao'][0]
 
 class CharErrorRate(Metrics):
     def __init__(self,device='cpu'):
@@ -410,7 +383,7 @@ class Comet_wmt20_comet_da(Metrics):
     def compute_score(self,src,sys,ref):
         d = [{"src":src,"mt":sys,"ref":ref}]
         model_output = self.model_wmt20.predict(d, batch_size=8, gpus=0)
-        return model_output[1]
+        return - model_output[1]
 
 class Comet_wmt21_comet_qe_mqm(Metrics):
     def __init__(self,device='cpu'):
@@ -421,7 +394,7 @@ class Comet_wmt21_comet_qe_mqm(Metrics):
     def compute_score(self,src,sys,ref):
         d = [{"src":src,"mt":sys,"ref":ref}]
         model_output = self.model_wmt21.predict(d, batch_size=8, gpus=0)
-        return model_output[1]
+        return - model_output[1]
 
 class Comet_eamt22_cometinho_da(Metrics):
     def __init__(self,device='cpu'):
@@ -432,5 +405,5 @@ class Comet_eamt22_cometinho_da(Metrics):
     def compute_score(self,src,sys,ref):
         d = [{"src":src,"mt":sys,"ref":ref}]
         model_output = self.model_eamt22.predict(d, batch_size=8, gpus=0)
-        return model_output[1]
+        return - model_output[1]
 

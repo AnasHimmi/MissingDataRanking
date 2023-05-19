@@ -77,7 +77,7 @@ def incomplete_ranking_aggregation(df,metric):
     return prank.borda_mat(p_total)
 
 # partial one level borda aggregation
-def one_levels_incomplete_aggregation(df):
+def one_levels_incomplete_aggregation(df,return_counts=False):
     n=df['System'].nunique()
     p_total = np.zeros((n,n))       
     p_ranks=[]
@@ -89,7 +89,10 @@ def one_levels_incomplete_aggregation(df):
         p = prank.p_rank_to_mat(perm, return_ratios=True)
         p_total += p
     systems = df['System'].unique()
-    return prank.borda_mat(p_total), p_total, systems
+    if return_counts:
+        return prank.borda_mat(p_total), p_total.sum(axis=0), systems
+    else:
+        return prank.borda_mat(p_total), p_total, systems
 
 # partial two levels borda aggregation
 def two_levels_incomplete_aggregation(df):

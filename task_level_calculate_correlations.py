@@ -23,7 +23,7 @@ def task_level_remove_data(df,eta):
     new_df = df.mask(nan_mask).copy(deep=True)
     return new_df
 
-def one_levels_incomplete_aggregation_task_level(df):
+def one_levels_incomplete_aggregation_task_level(df,return_counts=False):
     n=df['Model'].nunique()
     p_total = np.zeros((n,n))    
     p_ranks=[]
@@ -34,7 +34,10 @@ def one_levels_incomplete_aggregation_task_level(df):
         p = prank.p_rank_to_mat(perm, return_ratios=False)
         p_total += p
     systems = df['Model'].values
-    return prank.borda_mat(p_total), p_total, systems
+    if return_counts:
+        return prank.borda_mat(p_total), p_total.sum(axis=0), systems
+    else:
+        return prank.borda_mat(p_total), p_total, systems
 
 def mean_aggregation_task_level(df):
     means = df.mean(axis=1,numeric_only=True).values
